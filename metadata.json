@@ -1,0 +1,5 @@
+{
+  "name": "AI Feedback Analyzer",
+  "description": "An intelligent application that analyzes customer feedback to provide sentiment, a concise summary, key themes, and actionable insights using the power of Gemini.",
+  "requestFramePermissions": []
+}
